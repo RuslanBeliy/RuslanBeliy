@@ -1,24 +1,6 @@
 # Привет, меня зовут Руслан  
   
 
-
-## :mailbox: Cвязаться со мной:
-
-<div>
-  <div>
-    <a href="https://t.me/RuslanWebDeveloper" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="18" height="18" alt="telegram group" />   @RuslanWebDeveloper
-    </a>
-  </div>
-  <div>
-    <a href="mailto: belyi.web.dev@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/null/gmail--v1.png" width="18" height="18" alt="gmail" />   belyi.web.dev@gmail.com
-    </a>
-  </div>
- 
-</div>
-
-
   
 ## 👦Обо мне:  
  
@@ -50,8 +32,25 @@
   
 
 После изучил React и ряд технологий связанных с ним. 
-На данный момент продолжаю совершенствовать свои знания и ищу работу в данной сфере.  
+На данный момент продолжаю совершенствовать свои знания и ищу работу в данной сфере. Буду рад новым знакомствам :point_down:
+
+
   
+## :mailbox: Cвязаться со мной:
+
+<div>
+  <div>
+    <a href="https://t.me/RuslanWebDeveloper" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="18" height="18" alt="telegram group" />   @RuslanWebDeveloper
+    </a>
+  </div>
+  <div>
+    <a href="mailto: belyi.web.dev@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/null/gmail--v1.png" width="18" height="18" alt="gmail" />   belyi.web.dev@gmail.com
+    </a>
+  </div>
+</div>
+
 
 
 ## :muscle: Навыки: 
