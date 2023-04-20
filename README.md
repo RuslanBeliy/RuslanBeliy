@@ -40,8 +40,8 @@
 
 <div>
   <div>
-    <a href="https://t.me/RuslanWebDeveloper" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="18" height="18" alt="telegram group" />   @RuslanWebDeveloper
+    <a href="https://t.me/BelyiWebDev" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="18" height="18" alt="telegram group" />   @BelyiWebDev
     </a>
   </div>
   <div>
