@@ -143,14 +143,5 @@
         </td>
         <td><a href="https://ruslanbeliy.github.io/cutspace/" target="_blank">Click</a></td>
       </tr>
-      <tr>
-        <td>TaskManager</td>
-        <td>HTML, CSS, JavaScript</td>
-        <td>Менеджер задач на чистом JS</td>
-        <td>
-          <a href="https://github.com/RuslanBeliy/task-manager" target="_blank">Click</a>
-        </td>
-        <td><a href="https://ruslanbeliy.github.io/task-manager/" target="_blank">Click</a></td>
-      </tr>
     </table>
 
