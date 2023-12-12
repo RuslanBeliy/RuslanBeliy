@@ -65,7 +65,7 @@
         <td>GameStore</td>
         <td>React, TypeScript, ReactQuery, Axios, Node.js, Express, MongoDB</td>
         <td>Приложение для поиска и покупки игр</td>
-        <td style="text-align: center">
+        <td>
           <p>-</p>
         </td>
         <td><a href="https://game-store-updated.vercel.app/" target="_blank">Click</a></td>
@@ -75,7 +75,7 @@
         <td>React, TypeScript, ReduxToolkit, Axios, Node.js, Express, MongoDB</td>
         <td>Приложение для публикации статей</td>
         <td>
-          <a href="https://github.com/RuslanBeliy/my-blog-client" target="_blank">Click</a>
+          <p>-</p>
         </td>
         <td><a href="https://my-blog-three-gules.vercel.app/" target="_blank">Click</a></td>
       </tr>
@@ -84,7 +84,7 @@
         <td>React, TypeScript, ReduxToolkit, Axios, MockAPI</td>
         <td>Приложение для заказа пиццы</td>
         <td>
-          <a href="https://github.com/RuslanBeliy/pizza" target="_blank">Click</a>
+          <p>-</p>
         </td>
         <td><a href="https://pizza-omega-three.vercel.app/" target="_blank">Click</a></td>
       </tr>
