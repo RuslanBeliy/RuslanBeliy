@@ -53,6 +53,15 @@
         <th>Preview</th>
       </tr>
       <tr>
+        <td>FlowerShop</td>
+        <td>Vue, TypeScript, Pinia, Axios, Node.js, Express, MongoDB</td>
+        <td>Магазин цветов</td>
+        <td>
+          <a href="https://github.com/RuslanBeliy/flower-shop" target="_blank">Click</a>
+        </td>
+        <td><a href="https://flower-shop-sigma-ten.vercel.app/" target="_blank">Click</a></td>
+      </tr>
+      <tr>
         <td>GameStore</td>
         <td>React, TypeScript, ReactQuery, Axios, Node.js, Express, MongoDB</td>
         <td>Приложение для поиска и покупки игр</td>
