@@ -1,5 +1,5 @@
  
-## :mailbox: Cвязаться со мной:
+## 📧 Cвязаться со мной:
 
 <div>
   <div>
@@ -16,7 +16,7 @@
 
 
 
-## :muscle: Навыки: 
+## 💪 Навыки: 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
