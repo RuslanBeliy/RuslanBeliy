@@ -66,7 +66,7 @@
         <td>React, TypeScript, ReactQuery, Axios, Node.js, Express, MongoDB</td>
         <td>Приложение для поиска и покупки игр</td>
         <td>
-          <p>-</p>
+          <p style="text-align: center">-</p>
         </td>
         <td><a href="https://game-store-updated.vercel.app/" target="_blank">Click</a></td>
       </tr>
