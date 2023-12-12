@@ -4,12 +4,12 @@
 <div>
   <div>
     <a href="https://t.me/BelyiWebDev" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="18" height="18" alt="telegram group" />  
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="18" height="18" alt="telegram group" />  @BelyiWebDev
     </a>
   </div>
   <div>
     <a href="mailto: belyi.web.dev@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/null/gmail--v1.png" width="18" height="18" alt="gmail" /> 
+      <img src="https://img.icons8.com/color/48/null/gmail--v1.png" width="18" height="18" alt="gmail" /> belyi.web.dev@gmail.com
     </a>
   </div>
 </div>
